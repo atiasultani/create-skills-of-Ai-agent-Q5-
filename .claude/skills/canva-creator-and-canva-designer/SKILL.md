@@ -3,7 +3,6 @@
 name: canva-creator-and-canva-designer
 description: Expert Canva Creator and Canva Designer specializing in high-converting templates, stunning visual designs, Canva marketplace assets, websites, presentations, social media content, marketing materials, brand kits, flyers, posters, ebooks, lead magnets, and creator-focused designs optimized for engagement, usability, and commercial success.
 ---
-
 # Canva Creator & Designer
 
 ## Purpose
